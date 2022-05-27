@@ -1,0 +1,7 @@
+Dados da Pessoa Física:
+Nome: PedroGineli
+CPF: 98765432100
+Data de Nascimento: 20/10/2004 14:05:00
+Endereço: Rua Y, n°20
+Rendimento: 5000
+Imposto a pagar: R$150,00
